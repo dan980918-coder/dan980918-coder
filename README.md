@@ -25,15 +25,15 @@
 </td>
 </tr>
 <tr>
-<td width="280"><a href="https://github.com/dan980918-coder/home-credit-default-risk"><img src="https://raw.githubusercontent.com/dan980918-coder/home-credit-default-risk/main/assets/figures/threshold_tradeoff.png" width="280"></a></td>
+<td width="280"><a href="https://github.com/dan980918-coder/loan-approval-risk-scoring"><img src="https://raw.githubusercontent.com/dan980918-coder/loan-approval-risk-scoring/main/v2/docs/figures/tradeoff_champion_vs_challenger.png" width="280"></a></td>
 <td>
 
-### [대출 채무불이행 예측](https://github.com/dan980918-coder/home-credit-default-risk)
-팀(3명) 모델링 + 개인 확장, 2026.08~09
+### [연체 위험 기반 대출 승인 기준 설계](https://github.com/dan980918-coder/loan-approval-risk-scoring)
+팀(3명) + 개인 재설계, 2026.08~10
 
-흩어진 신용 이력 8개 테이블(신청자 307,511명)로 대출 연체 가능성을 예측했다. 팀에서 모델링까지 진행한 뒤, 서빙·배포·모니터링·임계값 분석은 개인적으로 보완·확장했다.
+흩어진 신용 이력 8개 테이블(신청자 307,511명)로 연체 위험을 점수화했다. 팀에서 모델링까지 진행한 뒤, 문제 정의부터 최종 평가까지 개인적으로 재설계했다.
 
-Lean(A) + LightGBM 검증 AUC 0.7825(12개 조합 중 최고). 임계값 0.60에서 승인율 81.4%를 유지하며 승인군 연체율을 기저치의 절반 수준(4.6%)까지 낮추는 심사 기준을 제시했다.
+승인율 80%에서 연체율 8.1% → 4.6%, 외부 신용점수만 쓸 때보다 12% 더 낮췄다.
 
 </td>
 </tr>
