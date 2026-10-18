@@ -12,15 +12,13 @@
 
 <table>
 <tr>
-<td width="280"><a href="https://github.com/dan980918-coder/crm-targeting-intelligence"><img src="https://raw.githubusercontent.com/dan980918-coder/crm-targeting-intelligence/main/reports/figures/12_buyer_path_breakdown.png" width="280"></a></td>
+<td width="280"><a href="https://github.com/dan980918-coder/crm-purchase-signal-targeting"><img src="https://raw.githubusercontent.com/dan980918-coder/crm-purchase-signal-targeting/main/v2/docs/figures/capture_curve.png" width="280"></a></td>
 <td>
 
-### [CRM 타겟팅 전략 설계](https://github.com/dan980918-coder/crm-targeting-intelligence)
-개인 프로젝트, 2026.08~09
+### [구매 신호 기반 CRM 발송 대상 선정 기준 설계](https://github.com/dan980918-coder/crm-purchase-signal-targeting)
+개인 프로젝트, 2026.08~10
 
-고객마다 다른 탐색·장바구니·구매 경로에 동일한 CRM 타기팅을 적용하는 게 맞는가. 고객 2,230만 명, 이벤트 2.25억 건의 행동 로그로 라이프사이클을 나누고 타겟팅 정책을 비교했다.
-
-구매 유도 모델 AUC 0.865(규칙 기반 0.804), 동일 Recall 기준 접촉 인원 21.68~50.87% 절감. 재활성화는 모델이 규칙 기반 대비 우위가 없음을 확인해 규칙을 유지하기로 판단했다.
+한정된 CRM 발송량을 누구에게 먼저 쓸 것인가. 상위 10% 발송 시 구매 고객 포착률을 최근 활동 순 35%에서 76%로 높이고, 발송 1만 건당 구매 고객을 320명에서 691명으로 늘렸다.
 
 </td>
 </tr>
