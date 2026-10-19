@@ -36,15 +36,13 @@
 </td>
 </tr>
 <tr>
-<td width="280"><a href="https://github.com/dan980918-coder/road-incident-analysis"><img src="https://raw.githubusercontent.com/dan980918-coder/road-incident-analysis/main/outputs/figures/dashboard_screenshot.png" width="280"></a></td>
+<td width="280"><a href="https://github.com/dan980918-coder/road-incident-response-planning"><img src="https://raw.githubusercontent.com/dan980918-coder/road-incident-response-planning/main/outputs/figures/dashboard_screenshot.png" width="280"></a></td>
 <td>
 
-### [도로 돌발상황 분석](https://github.com/dan980918-coder/road-incident-analysis)
+### [돌발 유형 기반 도로 대응 기준 설계](https://github.com/dan980918-coder/road-incident-response-planning)
 팀(3명), 2025.11~12
 
-ITS 국가교통정보센터 돌발상황 데이터 62.3만 건으로 도로타입·시간대별 대응 우선순위를 찾았다. 도로타입·도로번호 기준 패턴 분석(H1, H4)을 담당했다.
-
-도시고속국도는 교통사고 76.0%, 국가지원지방도는 공사 62.3%로 지배 유형이 정반대로 갈린다는 것을 카이제곱 검정과 Cramér's V로 확인했다(V=0.226, 중간 효과).
+도로 종류·노선·시간대별로 어떤 돌발에 대비해야 하는가. 도시고속국도는 4건 중 3건이 사고, 국가지원지방도는 5건 중 3건이 공사로 대응 유형이 정반대임을 확인하고, 평균에서 벗어난 노선을 찾아 대응 기준 분리를 제안했다.
 
 </td>
 </tr>
